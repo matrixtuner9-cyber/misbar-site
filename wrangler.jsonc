@@ -4,6 +4,7 @@
   "assets": { "directory": "./public" },
   "workers_dev": true,
   "routes": [
-    { "pattern": "paltest.net", "custom_domain": true }
+    { "pattern": "paltest.net", "custom_domain": true },
+    { "pattern": "www.paltest.net", "custom_domain": true }
   ]
 }
