@@ -3,3 +3,5 @@
   Referrer-Policy: strict-origin-when-cross-origin
 /audio/*
   Cache-Control: public, max-age=86400
+/video/*
+  Cache-Control: public, max-age=86400
